@@ -1,0 +1,7 @@
+{
+	"defName":"ShipPartPoison",
+	"abbreviation":"shippartpoison",
+	"cost":"-10",
+	"eventCap":"1",
+	"karmaType":"Bad"
+}

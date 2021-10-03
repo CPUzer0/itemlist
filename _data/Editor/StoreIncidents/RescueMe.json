@@ -1,0 +1,9 @@
+{
+	"defName":"RescueMe",
+	"abbreviation":"rescueme",
+	"cost":"800",
+	"eventCap":"5",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

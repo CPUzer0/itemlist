@@ -316,31 +316,31 @@
       "abr": "standinglamp",
       "category": "Furniture",
       "defname": "StandingLamp",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "standinglamp(red)",
       "category": "Furniture",
       "defname": "StandingLamp_Red",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "standinglamp(green)",
       "category": "Furniture",
       "defname": "StandingLamp_Green",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "standinglamp(blue)",
       "category": "Furniture",
       "defname": "StandingLamp_Blue",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "sunlamp",
       "category": "Furniture",
       "defname": "SunLamp",
-      "price": 129
+      "price": -10
     },
     {
       "abr": "shelf",
@@ -394,19 +394,19 @@
       "abr": "tubetelevision",
       "category": "Recreation",
       "defname": "TubeTelevision",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "flatscreentelevision",
       "category": "Recreation",
       "defname": "FlatscreenTelevision",
-      "price": 1533
+      "price": -10
     },
     {
       "abr": "megascreentelevision",
       "category": "Recreation",
       "defname": "MegascreenTelevision",
-      "price": 2475
+      "price": -10
     },
     {
       "abr": "telescope",
@@ -460,109 +460,109 @@
       "abr": "glowpod",
       "category": "Special",
       "defname": "GlowPod",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "battery",
       "category": "Power",
       "defname": "Battery",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "artbench",
       "category": "Production",
       "defname": "TableSculpting",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "butchertable",
       "category": "Production",
       "defname": "TableButcher",
-      "price": 302
+      "price": -10
     },
     {
       "abr": "handtailorbench",
       "category": "Production",
       "defname": "HandTailoringBench",
-      "price": 262
+      "price": -10
     },
     {
       "abr": "electrictailorbench",
       "category": "Production",
       "defname": "ElectricTailoringBench",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "fueledsmithy",
       "category": "Production",
       "defname": "FueledSmithy",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "electricsmithy",
       "category": "Production",
       "defname": "ElectricSmithy",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "machiningtable",
       "category": "Production",
       "defname": "TableMachining",
-      "price": 758
+      "price": -10
     },
     {
       "abr": "electricstove",
       "category": "Production",
       "defname": "ElectricStove",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "fueledstove",
       "category": "Production",
       "defname": "FueledStove",
-      "price": 265
+      "price": -10
     },
     {
       "abr": "stonecutter'stable",
       "category": "Production",
       "defname": "TableStonecutter",
-      "price": 358
+      "price": -10
     },
     {
       "abr": "brewery",
       "category": "Production",
       "defname": "Brewery",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "druglab",
       "category": "Production",
       "defname": "DrugLab",
-      "price": 742
+      "price": -10
     },
     {
       "abr": "electricsmelter",
       "category": "Production",
       "defname": "ElectricSmelter",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "simpleresearchbench",
       "category": "Production",
       "defname": "SimpleResearchBench",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "fermentingbarrel",
       "category": "Production",
       "defname": "FermentingBarrel",
-      "price": 95
+      "price": -10
     },
     {
       "abr": "deepdrill",
       "category": "Production",
       "defname": "DeepDrill",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "spiketrap",
@@ -880,7 +880,7 @@
       "abr": "advancedcomponent",
       "category": "Manufactured",
       "defname": "ComponentSpacer",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "neutroamine",
@@ -1366,13 +1366,13 @@
       "abr": "flakpants",
       "category": "Armor",
       "defname": "Apparel_FlakPants",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "flakjacket",
       "category": "Armor",
       "defname": "Apparel_FlakJacket",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "marinearmor",
@@ -2098,13 +2098,13 @@
       "abr": "mechnode",
       "category": "Special",
       "defname": "Gloomlight",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "shiplandingbeacon",
       "category": "Misc",
       "defname": "ShipLandingBeacon",
-      "price": 185
+      "price": -10
     },
     {
       "abr": "smallnatureshrine",
@@ -2398,7 +2398,7 @@
       "abr": "standingdarklamp",
       "category": "Furniture",
       "defname": "Darklamp",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "sleepaccelerator",
@@ -2410,7 +2410,7 @@
       "abr": "biosculpterpod",
       "category": "Misc",
       "defname": "BiosculpterPod",
-      "price": 708
+      "price": -10
     },
     {
       "abr": "neuralsupercharger",
@@ -2482,7 +2482,7 @@
       "abr": "lightball",
       "category": "Misc",
       "defname": "LightBall",
-      "price": 154
+      "price": -10
     },
     {
       "abr": "loudspeaker",
@@ -3232,19 +3232,19 @@
       "abr": "basicmanagerdesk",
       "category": "Production",
       "defname": "FM_BasicManagerStation",
-      "price": 262
+      "price": -10
     },
     {
       "abr": "managerdesk",
       "category": "Production",
       "defname": "FM_ManagerStation",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "aimanager",
       "category": "Production",
       "defname": "FM_AIManager",
-      "price": 7833
+      "price": -10
     },
     {
       "abr": "gaussrifle",
@@ -3280,7 +3280,7 @@
       "abr": "walldarklight",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightDark",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(red)",
@@ -3502,7 +3502,7 @@
       "abr": "compoundbow",
       "category": "Ranged weapons",
       "defname": "VWE_Bow_Compound",
-      "price": 240
+      "price": -10
     },
     {
       "abr": "handcannon",
@@ -3892,7 +3892,7 @@
       "abr": "chemshinebarrel",
       "category": "Production",
       "defname": "Building_ChemshineBarrel",
-      "price": 95
+      "price": -10
     },
     {
       "abr": "barstool",
@@ -4234,7 +4234,7 @@
       "abr": "ammocrate",
       "category": "Furniture",
       "defname": "VFES_AmmoCrate",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "militaryturret",
@@ -4330,25 +4330,25 @@
       "abr": "electricbutcher",
       "category": "Production",
       "defname": "VFE_TableButcherElectric",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "electricdruglab",
       "category": "Production",
       "defname": "VFE_TableDrugLabElectric",
-      "price": 1292
+      "price": -10
     },
     {
       "abr": "fueledsmelter",
       "category": "Production",
       "defname": "VFE_FueledSmelter",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "electricstonecutter'stable",
       "category": "Production",
       "defname": "VFE_TableStonecutterElectric",
-      "price": 1033
+      "price": -10
     },
     {
       "abr": "operatingtable",
@@ -4396,31 +4396,31 @@
       "abr": "industrialradio",
       "category": "Recreation",
       "defname": "Radio_Industrial",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "longwaveradio",
       "category": "Recreation",
       "defname": "Radio_Spacer",
-      "price": 1033
+      "price": -10
     },
     {
       "abr": "arcademachine",
       "category": "Recreation",
       "defname": "Joy_Arcade",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "oldcomputer",
       "category": "Recreation",
       "defname": "Joy_InudstrialComputer",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "moderncomputer",
       "category": "Recreation",
       "defname": "Joy_ModernComputer",
-      "price": 1100
+      "price": -10
     },
     {
       "abr": "uprightpiano",
@@ -4474,7 +4474,7 @@
       "abr": "modernlamp",
       "category": "Furniture",
       "defname": "Light_ModernLamp",
-      "price": 129
+      "price": -10
     },
     {
       "abr": "royalposterbed",
@@ -4582,13 +4582,13 @@
       "abr": "lampendtable",
       "category": "Furniture",
       "defname": "Table_LightEndTable",
-      "price": 169
+      "price": -10
     },
     {
       "abr": "outdoorlamp",
       "category": "Furniture",
       "defname": "Light_Streetlamp",
-      "price": 128
+      "price": -10
     },
     {
       "abr": "filecabinet",
@@ -5212,43 +5212,43 @@
       "abr": "largebattery",
       "category": "Power",
       "defname": "VFE_LargeBattery",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "smallbattery",
       "category": "Power",
       "defname": "VFE_SmallBattery",
-      "price": 182
+      "price": -10
     },
     {
       "abr": "advancedbattery",
       "category": "Power",
       "defname": "VFE_AdvancedBattery",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "largeadvancedbattery",
       "category": "Power",
       "defname": "VFE_LargeAdvancedBattery",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "gastank",
       "category": "Power",
       "defname": "VPE_GasTank",
-      "price": 321
+      "price": -10
     },
     {
       "abr": "helixiengassmelter",
       "category": "Production",
       "defname": "VPE_GasSmelter",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "helixiengasstove",
       "category": "Production",
       "defname": "VPE_GasStove",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "gaspoweredexcavator",
@@ -5266,43 +5266,43 @@
       "abr": "gassunlamp",
       "category": "Furniture",
       "defname": "VPE_GasSunLamp",
-      "price": 160
+      "price": -10
     },
     {
       "abr": "helixiengassmithy",
       "category": "Production",
       "defname": "VPE_GasSmithy",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "standinggaslamp",
       "category": "Furniture",
       "defname": "VPE_GasLamp",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "gaswalllight",
       "category": "Furniture",
       "defname": "VPE_GasWallLight",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "gaswalldarklight",
       "category": "Furniture",
       "defname": "VPE_GasWallDarkLight",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "gasfloodlight",
       "category": "Furniture",
       "defname": "VPE_GasFloodlight",
-      "price": 255
+      "price": -10
     },
     {
       "abr": "lightningrod",
       "category": "Special",
       "defname": "VPE_LightningRod",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "portablewood-firedgenerator",
@@ -5338,7 +5338,7 @@
       "abr": "electricrepairbench",
       "category": "Production",
       "defname": "ElectricTableRepair",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "repairkit",
@@ -5494,61 +5494,61 @@
       "abr": "illuminatedendtable",
       "category": "Furniture",
       "defname": "Table_IlluminatedEndTable",
-      "price": 286
+      "price": -10
     },
     {
       "abr": "illuminateddresser",
       "category": "Furniture",
       "defname": "Table_IlluminatedDresser",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "ultrascreentelevision",
       "category": "Recreation",
       "defname": "UltrascreenTV",
-      "price": 4100
+      "price": -10
     },
     {
       "abr": "biolabsunlamp",
       "category": "Furniture",
       "defname": "Spacer_SunLamp",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "spacerlamp",
       "category": "Furniture",
       "defname": "Light_SpacerLamp",
-      "price": 184
+      "price": -10
     },
     {
       "abr": "repairshelf",
       "category": "Furniture",
       "defname": "Shelf_RepairRack",
-      "price": 2908
+      "price": -10
     },
     {
       "abr": "outdoorsolarlamp",
       "category": "Furniture",
       "defname": "Spacer_OutdoorLamp",
-      "price": 184
+      "price": -10
     },
     {
       "abr": "advancedchair",
       "category": "Furniture",
       "defname": "Seat_AdvChair",
-      "price": 1267
+      "price": -10
     },
     {
       "abr": "interactivetable(1x1)",
       "category": "Furniture",
       "defname": "Table_interactive_1x1c",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "interactivetable(2x2)",
       "category": "Furniture",
       "defname": "Table_interactive_2x2c",
-      "price": 925
+      "price": -10
     },
     {
       "abr": "superpod",
@@ -6886,7 +6886,7 @@
       "abr": "bio-engineeringincubator",
       "category": "Furniture",
       "defname": "VFEI_BioengineeringIncubator",
-      "price": 1067
+      "price": -10
     },
     {
       "abr": "sonicinfestationrepeller",
@@ -7174,151 +7174,151 @@
       "abr": "factoryhopper",
       "category": "Production",
       "defname": "VFEM_HeavyHopper",
-      "price": 138
+      "price": -10
     },
     {
       "abr": "steelextractor",
       "category": "Production",
       "defname": "VFEM_ElectronicsFabricationFactory_SteelExtractor",
-      "price": 3800
+      "price": -10
     },
     {
       "abr": "componentassembler",
       "category": "Production",
       "defname": "VFEM_ElectronicsFabricationFactory_ComponentAssembler",
-      "price": 5650
+      "price": -10
     },
     {
       "abr": "advancedassembler",
       "category": "Production",
       "defname": "VFEM_ElectronicsFabricationFactory_AdvancedAssembler",
-      "price": 8200
+      "price": -10
     },
     {
       "abr": "chemfuelclarifier",
       "category": "Production",
       "defname": "VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier",
-      "price": 4175
+      "price": -10
     },
     {
       "abr": "mechanizedweaponsmith",
       "category": "Production",
       "defname": "VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith",
-      "price": 3617
+      "price": -10
     },
     {
       "abr": "artilleryfoundry",
       "category": "Production",
       "defname": "VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry",
-      "price": 7700
+      "price": -10
     },
     {
       "abr": "textilerecycler",
       "category": "Production",
       "defname": "VFEM_WearablesAndTextileFactory_TextileRecycler",
-      "price": 2658
+      "price": -10
     },
     {
       "abr": "autoloom",
       "category": "Production",
       "defname": "VFEM_WearablesAndTextileFactory_AutoLoom",
-      "price": 3458
+      "price": -10
     },
     {
       "abr": "synthreadsynthesizer",
       "category": "Production",
       "defname": "VFEM_WearablesAndTextileFactory_SynthreadSynthesizer",
-      "price": 11592
+      "price": -10
     },
     {
       "abr": "meatgrinder",
       "category": "Production",
       "defname": "VFEM_ProvisionsPackagingFactory_MeatGrinder",
-      "price": 3608
+      "price": -10
     },
     {
       "abr": "conveyoroven",
       "category": "Production",
       "defname": "VFEM_ProvisionsPackagingFactory_ConveyorOven",
-      "price": 3925
+      "price": -10
     },
     {
       "abr": "neutroamineinfuser",
       "category": "Production",
       "defname": "VFEM_MedicinalCompoundingFactory_NeutroamineInfuser",
-      "price": 4692
+      "price": -10
     },
     {
       "abr": "medicinegranulator",
       "category": "Production",
       "defname": "VFEM_MedicinalCompoundingFactory_MedicineGranulator",
-      "price": 6275
+      "price": -10
     },
     {
       "abr": "drugpowderizer",
       "category": "Production",
       "defname": "VFEM_MedicinalCompoundingFactory_DrugPowderizer",
-      "price": 8533
+      "price": -10
     },
     {
       "abr": "automaticdrill",
       "category": "Production",
       "defname": "VFEM_MasonryAndMetallicsFactory_AutomaticDrill",
-      "price": 3808
+      "price": -10
     },
     {
       "abr": "masonrysaw",
       "category": "Production",
       "defname": "VFEM_MasonryAndMetallicsFactory_MasonrySaw",
-      "price": 3383
+      "price": -10
     },
     {
       "abr": "plasteelforge",
       "category": "Production",
       "defname": "VFEM_MasonryAndMetallicsFactory_PlasteelForge",
-      "price": 13058
+      "price": -10
     },
     {
       "abr": "versatileassembler",
       "category": "Production",
       "defname": "VFEM_VersatileAssembler",
-      "price": 7908
+      "price": -10
     },
     {
       "abr": "autocleanerchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_AutocleanerBase",
-      "price": 1650
+      "price": -10
     },
     {
       "abr": "autohaulerchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_AutohaulerBase",
-      "price": 1367
+      "price": -10
     },
     {
       "abr": "autominerchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_AutominerBase",
-      "price": 1400
+      "price": -10
     },
     {
       "abr": "combatmechanoidchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_CombatBase",
-      "price": 2042
+      "price": -10
     },
     {
       "abr": "riotmechanoidchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_RiotBase",
-      "price": 2108
+      "price": -10
     },
     {
       "abr": "mobileturretchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_TurretBase",
-      "price": 2108
+      "price": -10
     },
     {
       "abr": "conduitpylon",
@@ -7330,7 +7330,7 @@
       "abr": "supercomputer",
       "category": "Production",
       "defname": "VFE_Supercomputer",
-      "price": 2267
+      "price": -10
     },
     {
       "abr": "chargeblasterturret",
@@ -7414,7 +7414,7 @@
       "abr": "winebarrel",
       "category": "Production",
       "defname": "VFEM_WineBarrel",
-      "price": 95
+      "price": -10
     },
     {
       "abr": "smokedmeat",
@@ -7558,7 +7558,7 @@
       "abr": "meadfermentingbarrel",
       "category": "Production",
       "defname": "VFEV_MeadFermentingBarrel",
-      "price": 94
+      "price": -10
     },
     {
       "abr": "apiary",
@@ -7840,13 +7840,13 @@
       "abr": "writerstable",
       "category": "Production",
       "defname": "VBE_WritersTable",
-      "price": 252
+      "price": -10
     },
     {
       "abr": "typewritertable",
       "category": "Production",
       "defname": "VBE_TypewritersTable",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "blueprint",
@@ -7972,43 +7972,43 @@
       "abr": "bar",
       "category": "Production",
       "defname": "VBE_Bar",
-      "price": 717
+      "price": -10
     },
     {
       "abr": "sodafountain",
       "category": "Production",
       "defname": "VBE_SodaFountain",
-      "price": 185
+      "price": -10
     },
     {
       "abr": "ambrandydistillery",
       "category": "Production",
       "defname": "VBE_AmbrandyDistillery",
-      "price": 1050
+      "price": -10
     },
     {
       "abr": "whiskeycask",
       "category": "Production",
       "defname": "VBE_WhiskeyCask",
-      "price": 725
+      "price": -10
     },
     {
       "abr": "tequilabarrel",
       "category": "Production",
       "defname": "VBE_TequilaBarrel",
-      "price": 95
+      "price": -10
     },
     {
       "abr": "vodkadrum",
       "category": "Production",
       "defname": "VBE_VodkaDrum",
-      "price": 82
+      "price": -10
     },
     {
       "abr": "ginstill",
       "category": "Production",
       "defname": "VBE_GinStill",
-      "price": 183
+      "price": -10
     },
     {
       "abr": "ambrandy(awful)",
@@ -8284,7 +8284,7 @@
       "abr": "espressomachine",
       "category": "Production",
       "defname": "VBE_EspressoMachineBuilding",
-      "price": 201
+      "price": -10
     },
     {
       "abr": "blacktea",
@@ -8338,37 +8338,37 @@
       "abr": "electricpot",
       "category": "Production",
       "defname": "VCE_ElectricPot",
-      "price": 216
+      "price": -10
     },
     {
       "abr": "grill",
       "category": "Production",
       "defname": "VCE_Grill",
-      "price": 282
+      "price": -10
     },
     {
       "abr": "deepfryer",
       "category": "Production",
       "defname": "VCE_DeepFrier",
-      "price": 323
+      "price": -10
     },
     {
       "abr": "canningmachine",
       "category": "Production",
       "defname": "VCE_CanningMachine",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "condimentpreptable",
       "category": "Production",
       "defname": "VCE_CondimentPrepTable",
-      "price": 259
+      "price": -10
     },
     {
       "abr": "cheesepress",
       "category": "Production",
       "defname": "VCE_CheesePress",
-      "price": 95
+      "price": -10
     },
     {
       "abr": "simplebake",
@@ -8884,37 +8884,37 @@
       "abr": "industrialcoffeeroaster",
       "category": "Production",
       "defname": "VFEM_IndustrialCoffeeRoaster",
-      "price": 3692
+      "price": -10
     },
     {
       "abr": "cannery",
       "category": "Production",
       "defname": "VFEM_ProvisionsPackagingFactory_Cannery",
-      "price": 3692
+      "price": -10
     },
     {
       "abr": "industrialcheesepress",
       "category": "Production",
       "defname": "VFEM_IndustrialCheesePress",
-      "price": 4558
+      "price": -10
     },
     {
       "abr": "industrialsoupvat",
       "category": "Production",
       "defname": "VFEM_IndustrialSoupVat",
-      "price": 3692
+      "price": -10
     },
     {
       "abr": "industrialapiary",
       "category": "Production",
       "defname": "VFE_IndustrialApiary",
-      "price": 2250
+      "price": -10
     },
     {
       "abr": "aquaponicsbasin",
       "category": "Production",
       "defname": "VFEM_AquaponicsBasin",
-      "price": 8825
+      "price": -10
     },
     {
       "abr": "smokedfish",

@@ -1,0 +1,7 @@
+{
+	"defName":"ResourcePodCrash",
+	"abbreviation":"resourcepodcrash",
+	"cost":"-10",
+	"eventCap":"1",
+	"karmaType":"Good"
+}
