@@ -1,0 +1,7 @@
+{
+	"defName":"HeatWave",
+	"abbreviation":"heatwave",
+	"cost":"3000",
+	"eventCap":"2",
+	"karmaType":"Bad"
+}

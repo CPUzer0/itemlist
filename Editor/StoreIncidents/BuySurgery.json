@@ -1,0 +1,9 @@
+{
+	"defName":"BuySurgery",
+	"abbreviation":"surgery",
+	"cost":"1",
+	"eventCap":"5",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

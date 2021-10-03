@@ -1,0 +1,7 @@
+{
+	"defName":"ShortCircuit",
+	"abbreviation":"shortcircuit",
+	"cost":"-10",
+	"eventCap":"2",
+	"karmaType":"Bad"
+}

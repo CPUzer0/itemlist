@@ -1,0 +1,9 @@
+{
+	"defName":"Predators",
+	"abbreviation":"predators",
+	"cost":"-10",
+	"eventCap":"1",
+	"karmaType":"Bad",
+	"minPointsToFire":"2500",
+	"maxWager":"10000",
+}

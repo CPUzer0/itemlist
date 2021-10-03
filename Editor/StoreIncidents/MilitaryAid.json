@@ -1,0 +1,7 @@
+{
+	"defName":"MilitaryAid",
+	"abbreviation":"militaryaid",
+	"cost":"3000",
+	"eventCap":"2",
+	"karmaType":"Good"
+}
