@@ -4,6 +4,6 @@
 	"cost":"1500",
 	"eventCap":"2",
 	"karmaType":"Bad",
-	"minPointsToFire":"1500",
+	"minPointsToFire":"0",
 	"maxWager":"5000",
 }

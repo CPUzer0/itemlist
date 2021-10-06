@@ -2,8 +2,8 @@
 	"defName":"BuyPawn",
 	"abbreviation":"pawn",
 	"cost":"1",
-	"eventCap":"2",
+	"eventCap":"100",
 	"karmaType":"Good",
-	"minPointsToFire":"1500",
+	"minPointsToFire":"0",
 	"maxWager":"0",
 }

@@ -141,11 +141,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "skillincrease",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
@@ -188,11 +183,6 @@
 	{
 		"abr": "pawn",
 		"price": 1,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "levelskill",
-		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -252,7 +242,7 @@
 	},
 	{
 		"abr": "passionshuffle",
-		"price": 2000,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -272,7 +262,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 1000,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -316,5 +306,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 63
+	"total": 61
 }
