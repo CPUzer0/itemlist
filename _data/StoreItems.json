@@ -2122,7 +2122,7 @@
       "abr": "animusstone",
       "category": "Misc",
       "defname": "AnimusStone",
-      "price": 8333
+      "price": -10
     },
     {
       "abr": "harp",
@@ -10393,6 +10393,234 @@
       "price": 442
     },
     {
+      "abr": "ambroisenarm",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedArm",
+      "price": 3050
+    },
+    {
+      "abr": "ambroisenear",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedEar",
+      "price": 1892
+    },
+    {
+      "abr": "ambroiseneye",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedEye",
+      "price": 1892
+    },
+    {
+      "abr": "ambroisenfinger",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedFinger",
+      "price": 2167
+    },
+    {
+      "abr": "ambroisenfoot",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedFoot",
+      "price": 2617
+    },
+    {
+      "abr": "ambroisenhand",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedHand",
+      "price": 2617
+    },
+    {
+      "abr": "ambroisenleg",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedLeg",
+      "price": 3050
+    },
+    {
+      "abr": "ambroisennose",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedNose",
+      "price": 1892
+    },
+    {
+      "abr": "ambroisentoe",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedToe",
+      "price": 2167
+    },
+    {
+      "abr": "artificialarm",
+      "category": "Simple parts",
+      "defname": "ArtificialMedArm",
+      "price": 725
+    },
+    {
+      "abr": "artificialear",
+      "category": "Simple parts",
+      "defname": "ArtificialMedEar",
+      "price": 392
+    },
+    {
+      "abr": "artificialeye",
+      "category": "Simple parts",
+      "defname": "ArtificialMedEye",
+      "price": 392
+    },
+    {
+      "abr": "artificialfinger",
+      "category": "Simple parts",
+      "defname": "ArtificialMedFinger",
+      "price": 417
+    },
+    {
+      "abr": "artificialfoot",
+      "category": "Simple parts",
+      "defname": "ArtificialMedFoot",
+      "price": 550
+    },
+    {
+      "abr": "artificialhand",
+      "category": "Simple parts",
+      "defname": "ArtificialMedHand",
+      "price": 550
+    },
+    {
+      "abr": "artificialleg",
+      "category": "Simple parts",
+      "defname": "ArtificialMedLeg",
+      "price": 725
+    },
+    {
+      "abr": "artificialnose",
+      "category": "Simple parts",
+      "defname": "ArtificialMedNose",
+      "price": 392
+    },
+    {
+      "abr": "artificialtoe",
+      "category": "Simple parts",
+      "defname": "ArtificialMedToe",
+      "price": 417
+    },
+    {
+      "abr": "earpatch",
+      "category": "Simple parts",
+      "defname": "EarPatch",
+      "price": 74
+    },
+    {
+      "abr": "earlymedievalmedicine",
+      "category": "Medicine",
+      "defname": "MedicineEarlyMedievalMM",
+      "price": 27
+    },
+    {
+      "abr": "eyepatch",
+      "category": "Simple parts",
+      "defname": "EyePatch",
+      "price": 74
+    },
+    {
+      "abr": "intricateear",
+      "category": "Simple parts",
+      "defname": "MechanicalMedEar",
+      "price": 1117
+    },
+    {
+      "abr": "intricateeye",
+      "category": "Simple parts",
+      "defname": "MechanicalMedEye",
+      "price": 1117
+    },
+    {
+      "abr": "intricatenose",
+      "category": "Simple parts",
+      "defname": "MechanicalMedNose",
+      "price": 1117
+    },
+    {
+      "abr": "ironarm",
+      "category": "Simple parts",
+      "defname": "IronArm",
+      "price": 194
+    },
+    {
+      "abr": "latemedievalmedicine",
+      "category": "Medicine",
+      "defname": "MedicineLateMedievalMM",
+      "price": 42
+    },
+    {
+      "abr": "mechanicalarm",
+      "category": "Simple parts",
+      "defname": "MechanicalMedArm",
+      "price": 1767
+    },
+    {
+      "abr": "mechanicalfinger",
+      "category": "Simple parts",
+      "defname": "MechanicalMedFinger",
+      "price": 1217
+    },
+    {
+      "abr": "mechanicalfoot",
+      "category": "Simple parts",
+      "defname": "MechanicalMedFoot",
+      "price": 1458
+    },
+    {
+      "abr": "mechanicalhand",
+      "category": "Simple parts",
+      "defname": "MechanicalMedHand",
+      "price": 1458
+    },
+    {
+      "abr": "mechanicalleg",
+      "category": "Simple parts",
+      "defname": "MechanicalMedLeg",
+      "price": 1767
+    },
+    {
+      "abr": "mechanicaltoe",
+      "category": "Simple parts",
+      "defname": "MechanicalMedToe",
+      "price": 1217
+    },
+    {
+      "abr": "paresianmedicine",
+      "category": "Medicine",
+      "defname": "MedicineParesianMM",
+      "price": 83
+    },
+    {
+      "abr": "prosthetichook",
+      "category": "Simple parts",
+      "defname": "ProstheticHook",
+      "price": 115
+    },
+    {
+      "abr": "woodenfinger",
+      "category": "Simple parts",
+      "defname": "WoodenFinger",
+      "price": 46
+    },
+    {
+      "abr": "woodenfoot",
+      "category": "Simple parts",
+      "defname": "WoodenFoot",
+      "price": 86
+    },
+    {
+      "abr": "woodennose",
+      "category": "Simple parts",
+      "defname": "WoodenNose",
+      "price": 46
+    },
+    {
+      "abr": "woodentoe",
+      "category": "Simple parts",
+      "defname": "WoodenToe",
+      "price": 46
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -10513,5 +10741,5 @@
       "price": 256
     }
   ],
-  "total": 1752
+  "total": 1790
 }
