@@ -5392,25 +5392,25 @@
       "abr": "arcanetome:fire",
       "category": "Skill books",
       "defname": "BookOfInnerFire",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:ice",
       "category": "Skill books",
       "defname": "BookOfHeartOfFrost",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:lightning",
       "category": "Skill books",
       "defname": "BookOfStormBorn",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:power",
       "category": "Skill books",
       "defname": "BookOfArcanist",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "divinetome:paladin",
@@ -5422,139 +5422,139 @@
       "abr": "arcanetome:summoning",
       "category": "Skill books",
       "defname": "BookOfSummoner",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:nature",
       "category": "Skill books",
       "defname": "BookOfDruid",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:necromancer",
       "category": "Skill books",
       "defname": "BookOfNecromancer",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:priest",
       "category": "Skill books",
       "defname": "BookOfPriest",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:bard",
       "category": "Skill books",
       "defname": "BookOfBard",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:demonology",
       "category": "Skill books",
       "defname": "BookOfDemons",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:earth",
       "category": "Skill books",
       "defname": "BookOfEarth",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:technomancy",
       "category": "Skill books",
       "defname": "BookOfMagitech",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:hemomancy",
       "category": "Skill books",
       "defname": "BookOfHemomancy",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:enchanter",
       "category": "Skill books",
       "defname": "BookOfEnchanter",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:chronomancer",
       "category": "Skill books",
       "defname": "BookOfChronomancer",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:chaosmage",
       "category": "Skill books",
       "defname": "BookOfChaos",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:brightmage",
       "category": "Skill books",
       "defname": "BookOfTheSun",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:shaman",
       "category": "Skill books",
       "defname": "BookOfShamanism",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "combatform:gladiator",
       "category": "Skill books",
       "defname": "BookOfGladiator",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatpower:psionic",
       "category": "Skill books",
       "defname": "BookOfPsionic",
-      "price": -10
+      "price": 4750
     },
     {
       "abr": "combatform:faceless",
       "category": "Skill books",
       "defname": "BookOfFaceless",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatstyle:sniper",
       "category": "Skill books",
       "defname": "BookOfSniper",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatstyle:bladedancer",
       "category": "Skill books",
       "defname": "BookOfBladedancer",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatstyle:ranger",
       "category": "Skill books",
       "defname": "BookOfRanger",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatstyle:deathknight",
       "category": "Skill books",
       "defname": "BookOfDeathKnight",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatstyle:monk",
       "category": "Skill books",
       "defname": "BookOfMonk",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatstyle:commander",
       "category": "Skill books",
       "defname": "BookOfCommander",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "serum:supersoldier",
@@ -5566,433 +5566,433 @@
       "abr": "arcanetome:shadow",
       "category": "Skill books",
       "defname": "BookOfShadow",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "magespell:arcanebolt",
       "category": "Scrolls",
       "defname": "SpellOf_ArcaneBolt",
-      "price": -10
+      "price": 950
     },
     {
       "abr": "magespell:blink",
       "category": "Scrolls",
       "defname": "SpellOf_Blink",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "magespell:blur",
       "category": "Scrolls",
       "defname": "SpellOf_Blur",
-      "price": -10
+      "price": 967
     },
     {
       "abr": "magespell:magiccooler",
       "category": "Scrolls",
       "defname": "SpellOf_Cooler",
-      "price": -10
+      "price": 633
     },
     {
       "abr": "magespell:dirtdevil",
       "category": "Scrolls",
       "defname": "SpellOf_DirtDevil",
-      "price": -10
+      "price": 967
     },
     {
       "abr": "magespell:emp",
       "category": "Scrolls",
       "defname": "SpellOf_EMP",
-      "price": -10
+      "price": 967
     },
     {
       "abr": "magespell:extinguish",
       "category": "Scrolls",
       "defname": "SpellOf_Extinguish",
-      "price": -10
+      "price": 567
     },
     {
       "abr": "magespell:heal",
       "category": "Scrolls",
       "defname": "SpellOf_Heal",
-      "price": -10
+      "price": 767
     },
     {
       "abr": "magespell:magicheater",
       "category": "Scrolls",
       "defname": "SpellOf_Heater",
-      "price": -10
+      "price": 633
     },
     {
       "abr": "magespell:ignite",
       "category": "Scrolls",
       "defname": "SpellOf_Ignite",
-      "price": -10
+      "price": 950
     },
     {
       "abr": "magespell:magelight",
       "category": "Scrolls",
       "defname": "SpellOf_MageLight",
-      "price": -10
+      "price": 633
     },
     {
       "abr": "magespell:powernode",
       "category": "Scrolls",
       "defname": "SpellOf_PowerNode",
-      "price": -10
+      "price": 1017
     },
     {
       "abr": "magespell:rain",
       "category": "Scrolls",
       "defname": "SpellOf_Rain",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "magespell:snapfreeze",
       "category": "Scrolls",
       "defname": "SpellOf_SnapFreeze",
-      "price": -10
+      "price": 950
     },
     {
       "abr": "magespell:smokecloud",
       "category": "Scrolls",
       "defname": "SpellOf_SmokeCloud",
-      "price": -10
+      "price": 700
     },
     {
       "abr": "magespell:sunlight",
       "category": "Scrolls",
       "defname": "SpellOf_Sunlight",
-      "price": -10
+      "price": 1117
     },
     {
       "abr": "lightningspell:chargebattery",
       "category": "Scrolls",
       "defname": "SpellOf_ChargeBattery",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "firespell:cauterizewound",
       "category": "Scrolls",
       "defname": "SpellOf_CauterizeWound",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "bardspell:discord",
       "category": "Scrolls",
       "defname": "SpellOf_Discord",
-      "price": -10
+      "price": 1267
     },
     {
       "abr": "firespell:dryground",
       "category": "Scrolls",
       "defname": "SpellOf_DryGround",
-      "price": -10
+      "price": 900
     },
     {
       "abr": "icespell:moisturizeground",
       "category": "Scrolls",
       "defname": "SpellOf_WetGround",
-      "price": -10
+      "price": 900
     },
     {
       "abr": "magespell:invisibility",
       "category": "Scrolls",
       "defname": "SpellOf_Invisibility",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "magespell:lightningtrap",
       "category": "Scrolls",
       "defname": "SpellOf_LightningTrap",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "magespell:manashield",
       "category": "Scrolls",
       "defname": "SpellOf_ManaShield",
-      "price": -10
+      "price": 1600
     },
     {
       "abr": "holycasterspell:shieldother",
       "category": "Scrolls",
       "defname": "SpellOf_ShieldOther",
-      "price": -10
+      "price": 1267
     },
     {
       "abr": "magespell:spellmending",
       "category": "Scrolls",
       "defname": "SpellOf_SpellMending",
-      "price": -10
+      "price": 1792
     },
     {
       "abr": "magespell:siphonmana",
       "category": "Scrolls",
       "defname": "SpellOf_SiphonMana",
-      "price": -10
+      "price": 1267
     },
     {
       "abr": "magespell:summonminion",
       "category": "Scrolls",
       "defname": "SpellOf_SummonMinion",
-      "price": -10
+      "price": 1750
     },
     {
       "abr": "magespell:teleport",
       "category": "Scrolls",
       "defname": "SpellOf_Teleport",
-      "price": -10
+      "price": 2200
     },
     {
       "abr": "magespell:transfermana",
       "category": "Scrolls",
       "defname": "SpellOf_TransferMana",
-      "price": -10
+      "price": 1267
     },
     {
       "abr": "enchanterspell:blankmind",
       "category": "Scrolls",
       "defname": "SpellOf_BlankMind",
-      "price": -10
+      "price": 1367
     },
     {
       "abr": "druidspell:briarpatch",
       "category": "Scrolls",
       "defname": "SpellOf_BriarPatch",
-      "price": -10
+      "price": 950
     },
     {
       "abr": "druidspell:fertilelands",
       "category": "Scrolls",
       "defname": "SpellOf_FertileLands",
-      "price": -10
+      "price": 1233
     },
     {
       "abr": "technomancerspell:mechanitereprogramming",
       "category": "Scrolls",
       "defname": "SpellOf_MechaniteReprogramming",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "technomancerspell:overdrive",
       "category": "Scrolls",
       "defname": "SpellOf_Overdrive",
-      "price": -10
+      "price": 800
     },
     {
       "abr": "technomancerspell:sabotage",
       "category": "Scrolls",
       "defname": "SpellOf_Sabotage",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "technomancerspell:kineticshield",
       "category": "Scrolls",
       "defname": "SpellOf_TechnoShield",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "bardspell:battlehymn",
       "category": "Scrolls",
       "defname": "SpellOf_BattleHymn",
-      "price": -10
+      "price": 2750
     },
     {
       "abr": "icespell:blizzard",
       "category": "Scrolls",
       "defname": "SpellOf_Blizzard",
-      "price": -10
+      "price": 3583
     },
     {
       "abr": "bloodmagespell:bloodmoon",
       "category": "Scrolls",
       "defname": "SpellOf_BloodMoon",
-      "price": -10
+      "price": 3750
     },
     {
       "abr": "lightningspell:eyeofthestorm",
       "category": "Scrolls",
       "defname": "SpellOf_EyeOfTheStorm",
-      "price": -10
+      "price": 3583
     },
     {
       "abr": "firespell:firestorm",
       "category": "Scrolls",
       "defname": "SpellOf_Firestorm",
-      "price": -10
+      "price": 3583
     },
     {
       "abr": "arcanespell:gateway",
       "category": "Scrolls",
       "defname": "SpellOf_FoldReality",
-      "price": -10
+      "price": 4767
     },
     {
       "abr": "shamanspell:guardianspirit",
       "category": "Scrolls",
       "defname": "SpellOf_GuardianSpirit",
-      "price": -10
+      "price": 3767
     },
     {
       "abr": "paladinspell:holywrath",
       "category": "Scrolls",
       "defname": "SpellOf_HolyWrath",
-      "price": -10
+      "price": 3167
     },
     {
       "abr": "necromancerspell:lichform",
       "category": "Scrolls",
       "defname": "SpellOf_LichForm",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "geomancerspell:meteor",
       "category": "Scrolls",
       "defname": "SpellOf_Meteor",
-      "price": -10
+      "price": 2750
     },
     {
       "abr": "technomancerspell:orbitalstrike",
       "category": "Scrolls",
       "defname": "SpellOf_OrbitalStrike",
-      "price": -10
+      "price": 2833
     },
     {
       "abr": "warlockspell:psychicshock",
       "category": "Scrolls",
       "defname": "SpellOf_PsychicShock",
-      "price": -10
+      "price": 3000
     },
     {
       "abr": "chronomancerspell:recall",
       "category": "Scrolls",
       "defname": "SpellOf_Recall",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "druidspell:regrowlimb",
       "category": "Scrolls",
       "defname": "SpellOf_RegrowLimb",
-      "price": -10
+      "price": 3100
     },
     {
       "abr": "priestspell:resurrection",
       "category": "Scrolls",
       "defname": "SpellOf_Resurrection",
-      "price": -10
+      "price": 6250
     },
     {
       "abr": "succubusspell:scorn",
       "category": "Scrolls",
       "defname": "SpellOf_Scorn",
-      "price": -10
+      "price": 2750
     },
     {
       "abr": "enchanterspell:shapeshift",
       "category": "Scrolls",
       "defname": "SpellOf_Shapeshift",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "summonerspell:summonpoppi",
       "category": "Scrolls",
       "defname": "SpellOf_SummonPoppi",
-      "price": -10
+      "price": 3767
     },
     {
       "abr": "brightmagespell:spiritoflight",
       "category": "Scrolls",
       "defname": "SpellOf_SpiritOfLight",
-      "price": -10
+      "price": 3767
     },
     {
       "abr": "fighterskill:throwingknife",
       "category": "Scrolls",
       "defname": "SkillOf_ThrowingKnife",
-      "price": -10
+      "price": 1583
     },
     {
       "abr": "fighterskill:burningfury",
       "category": "Scrolls",
       "defname": "SkillOf_BurningFury",
-      "price": -10
+      "price": 1583
     },
     {
       "abr": "fighterskill:fightersfocus",
       "category": "Scrolls",
       "defname": "SkillOf_FightersFocus",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "fighterskill:gearrepair",
       "category": "Scrolls",
       "defname": "SkillOf_GearRepair",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "fighterskill:heavyblow",
       "category": "Scrolls",
       "defname": "SkillOf_HeavyBlow",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "fighterskill:innerhealing",
       "category": "Scrolls",
       "defname": "SkillOf_InnerHealing",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "fighterskill:legion",
       "category": "Scrolls",
       "defname": "SkillOf_Legion",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "fighterskill:pommelstrike",
       "category": "Scrolls",
       "defname": "SkillOf_PommelStrike",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "fighterskill:sprint",
       "category": "Scrolls",
       "defname": "SkillOf_Sprint",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "fighterskill:strongback",
       "category": "Scrolls",
       "defname": "SkillOf_StrongBack",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "fighterskill:taunt",
       "category": "Scrolls",
       "defname": "SkillOf_Taunt",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "fighterskill:tempeststrike",
       "category": "Scrolls",
       "defname": "SkillOf_TempestStrike",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "fighterskill:thickskin",
       "category": "Scrolls",
       "defname": "SkillOf_ThickSkin",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "gemofarcaneinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Magic",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "gemofphysicalinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Might",
-      "price": -10
+      "price": 4000
     },
     {
       "abr": "elephantspear",
